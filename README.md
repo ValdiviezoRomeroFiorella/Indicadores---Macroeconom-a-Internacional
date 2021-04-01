@@ -1,2 +1,2 @@
-# Indicadores---Macroeconom-a-Internacional
+# Indicadores---Macroeconomia-Internacional
 Macroeconomis Data Visualization - Perú
